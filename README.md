@@ -2,6 +2,8 @@
 This project aims to extract financial data (KPIs)  alongside key metrics of S&amp;P 500 companies over the last three years.  
 
 # Output
+https://github.com/KaranjaEve/statista_case_study_financial_data_extraction/blob/main/data/Case_study_output.csv
+
 **data/Case_study_output.csv**
 
 # Requirements 

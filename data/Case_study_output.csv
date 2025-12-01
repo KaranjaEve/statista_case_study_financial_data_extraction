@@ -1,0 +1,158 @@
+Ticker,Company name,Country,Industry,Revenue unit,Market Cap (millions),Revenue_2024 (millions),Revenue_2023 (millions),Revenue_2022 (millions),NetIncome_2024 (millions),NetIncome_2023 (millions),NetIncome_2022 (millions),TotalAssets_2024 (millions),TotalAssets_2023 (millions),TotalAssets_2022 (millions)
+MMM,3M Company,United States,Conglomerates,USD,91638.94,24575.0,24610.0,34229.0,4173.0,-6995.0,5777.0,39868.0,50580.0,46455.0
+AOS,A.O. Smith Corporation,United States,Specialty Industrial Machinery,USD,9245.75,3818.1,3852.8,3753.9,533.6,556.6,235.7,3240.0,3213.9,3332.3
+ABT,Abbott Laboratories,United States,Medical Devices,USD,224345.16,41950.0,40109.0,43653.0,13402.0,5723.0,6933.0,81414.0,73214.0,74438.0
+ABBV,AbbVie Inc.,United States,Drug Manufacturers - General,USD,402433.47,56334.0,54318.0,58054.0,4278.0,4863.0,11836.0,135161.0,134711.0,138805.0
+ADBE,Adobe Inc.,United States,Software - Application,USD,135799.14,21505.0,19409.0,17606.0,5560.0,5428.0,4756.0,30230.0,29779.0,27165.0
+AMD,"Advanced Micro Devices, Inc.",United States,Semiconductors,USD,354147.89,25785.0,22680.0,23601.0,1641.0,854.0,1320.0,69226.0,67885.0,67580.0
+AES,The AES Corporation,United States,Utilities - Diversified,USD,10012.42,12278.0,12668.0,12617.0,1679.0,249.0,-546.0,47406.0,44799.0,38363.0
+AFL,AFLAC Incorporated,United States,Insurance - Life,USD,58997.26,19128.0,18841.0,19151.0,5443.0,4659.0,4418.0,117566.0,126724.0,131738.0
+A,"Agilent Technologies, Inc.",United States,Diagnostics & Research,USD,43517.31,6510.0,6833.0,6848.0,1289.0,1240.0,1254.0,11846.0,10763.0,10532.0
+ABNB,"Airbnb, Inc.",United States,Travel Services,USD,71625.45,11102.0,9917.0,8399.0,2648.0,4792.0,1893.0,20959.0,20645.0,16038.0
+AKAM,"Akamai Technologies, Inc.",United States,Software - Infrastructure,USD,12878.82,3991.17,3811.92,3616.65,504.92,547.63,523.67,10368.78,9900.04,8303.4
+ALB,Albemarle Corporation,United States,Specialty Chemicals,USD,15299.5,5377.53,9617.2,7320.1,-1179.45,1573.48,2689.82,16609.65,18270.65,15456.52
+ARE,Alexandria Real Estate Equities,United States,REIT - Office,USD,9275.52,3049.71,2842.46,2576.04,322.95,103.64,521.66,37527.45,36771.4,35523.4
+ALGN,"Align Technology, Inc.",United States,Medical Instruments & Supplies,USD,10669.27,3999.01,3862.26,3734.64,421.36,445.05,361.57,6214.6,6083.88,5947.95
+ALLE,Allegion plc,Ireland,Security & Protection Services,USD,14283.88,3772.2,3650.8,3271.9,597.5,540.4,458.0,4487.8,4311.5,3991.2
+LNT,Alliant Energy Corporation,United States,Utilities - Regulated Electric,USD,17857.52,3981.0,4027.0,4205.0,690.0,703.0,686.0,22714.0,21237.0,20163.0
+ALL,Allstate Corporation (The),United States,Insurance - Property & Casualty,USD,56121.36,63515.0,56591.0,50617.0,4667.0,-188.0,-1289.0,111617.0,103362.0,97989.0
+GOOGL,Alphabet Inc.,United States,Internet Content & Information,USD,3878058.98,350018.0,307394.0,282836.0,100118.0,73795.0,59972.0,450256.0,402392.0,365264.0
+MO,"Altria Group, Inc.",United States,Tobacco,USD,99130.36,20444.0,20502.0,20688.0,11264.0,8130.0,5764.0,35177.0,38570.0,36954.0
+AMZN,"Amazon.com, Inc.",United States,Internet Retail,USD,2493172.15,637959.0,574785.0,513983.0,59248.0,30425.0,-2722.0,624894.0,527854.0,462675.0
+AEE,Ameren Corporation,United States,Utilities - Regulated Electric,USD,28767.13,7623.0,7500.0,7957.0,1182.0,1152.0,1074.0,44598.0,40830.0,37904.0
+AEP,American Electric Power Company,United States,Utilities - Regulated Electric,USD,66249.82,19721.3,18982.3,19639.5,2967.1,2208.1,2307.2,103078.0,96684.0,93403.3
+AXP,American Express Company,United States,Credit Services,USD,254184.9,65949.0,60515.0,52862.0,10129.0,8374.0,7514.0,271461.0,261108.0,228354.0
+AIG,"American International Group, I",United States,Insurance - Diversified,USD,42192.93,27270.0,27959.0,29975.0,-1404.0,3643.0,10227.0,161322.0,539306.0,522228.0
+AMT,American Tower Corporation (REI,United States,REIT - Specialty,USD,84860.94,10127.2,10012.2,9645.4,2255.0,1483.3,1765.8,61077.4,66027.6,67194.5
+AWK,"American Water Works Company, I",United States,Utilities - Regulated Water,USD,25379.72,4684.0,4234.0,3792.0,1051.0,944.0,820.0,32830.0,30298.0,27787.0
+AMP,"Ameriprise Financial, Inc.",United States,Asset Management,USD,42963.32,17264.0,15535.0,14258.0,3401.0,2556.0,3149.0,181403.0,175191.0,158852.0
+AME,"AMETEK, Inc.",United States,Specialty Industrial Machinery,USD,45703.48,6941.18,6596.95,6150.53,1376.12,1313.19,1159.54,14631.17,15023.53,12431.12
+AMGN,Amgen Inc.,United States,Drug Manufacturers - General,USD,186023.51,33424.0,28190.0,26323.0,4090.0,6717.0,6552.0,91839.0,97154.0,65121.0
+APH,Amphenol Corporation,United States,Electronic Components,USD,172469.42,15222.7,12554.7,12623.0,2424.0,1928.0,1902.3,21440.2,16526.4,15326.2
+AON,Aon plc,Ireland,Insurance Brokers,USD,76314.57,15698.0,13376.0,12479.0,2654.0,2564.0,2589.0,48965.0,33959.0,32704.0
+APA,APA Corporation,United States,Oil & Gas E&P,USD,8933.93,9737.0,8279.0,11075.0,804.0,2855.0,3604.0,19390.0,15244.0,13147.0
+APO,"Apollo Global Management, Inc. ",United States,Asset Management,USD,76528.72,26114.0,32644.0,10968.0,4577.0,5047.0,-1961.0,377895.0,313488.0,257217.0
+APTV,Aptiv PLC,Switzerland,Auto Parts,USD,16887.27,19713.0,20051.0,17489.0,1787.0,2938.0,594.0,23458.0,24427.0,21884.0
+ACGL,Arch Capital Group Ltd.,Bermuda,Insurance - Diversified,USD,35052.85,16930.0,13297.0,9613.0,4312.0,4443.0,1476.0,70906.0,58906.0,47990.0
+ADM,Archer-Daniels-Midland Company,United States,Farm Products,USD,29189.81,85530.0,93935.0,101556.0,1800.0,3483.0,4340.0,53271.0,54631.0,59774.0
+ANET,"Arista Networks, Inc.",United States,Computer Hardware,USD,164563.37,7003.15,5860.17,4381.31,2852.05,2087.32,1352.45,14043.92,9956.64,6775.41
+AJG,Arthur J. Gallagher & Co.,United States,Insurance Brokers,USD,63590.05,11554.9,10071.9,8550.6,1462.7,969.5,1114.2,64255.2,51615.8,38358.4
+AIZ,"Assurant, Inc.",United States,Insurance - Property & Casualty,USD,11512.77,11877.5,11131.6,10193.0,760.2,642.5,276.6,35020.6,33635.2,33117.3
+T,AT&T Inc.,United States,Telecom Services,USD,184467.47,122336.0,122428.0,120741.0,10948.0,14400.0,-8524.0,394795.0,407060.0,402853.0
+AVB,"AvalonBay Communities, Inc.",United States,REIT - Residential,USD,25905.17,2913.76,2767.91,2593.45,1081.99,928.82,1136.78,21000.74,20678.21,20457.76
+AVY,Avery Dennison Corporation,United States,Packaging & Containers,USD,13323.41,8755.7,8364.3,9039.3,704.9,503.0,757.1,8404.2,8209.8,7950.5
+AXON,"Axon Enterprise, Inc.",United States,Aerospace & Defense,USD,42622.7,2082.53,1560.7,1187.14,377.03,175.78,146.93,4474.59,3409.17,2851.89
+BKR,Baker Hughes Company,United States,Oil & Gas Equipment & Services,USD,49536.05,27829.0,25506.0,21156.0,2979.0,1943.0,-601.0,38363.0,36945.0,34181.0
+BALL,Ball Corporation,United States,Packaging & Containers,USD,13479.53,11795.0,12062.0,13372.0,4008.0,707.0,719.0,17628.0,19303.0,19909.0
+BAC,Bank of America Corporation,United States,Banks - Diversified,USD,397382.75,101887.0,98581.0,94950.0,27132.0,26515.0,27528.0,3261519.0,3180151.0,3051375.0
+BAX,Baxter International Inc.,United States,Medical Instruments & Supplies,USD,9633.41,10636.0,10360.0,10057.0,-649.0,2656.0,-2433.0,25782.0,28276.0,28287.0
+BIIB,Biogen Inc.,United States,Drug Manufacturers - General,USD,26713.02,9675.9,9835.6,10173.4,1632.2,1161.1,3046.9,28049.3,26844.8,24554.1
+BLK,"BlackRock, Inc.",United States,Asset Management,USD,162489.57,20407.0,17859.0,17873.0,6369.0,5502.0,5178.0,138615.0,123211.0,117628.0
+BX,Blackstone Inc.,United States,Asset Management,USD,179665.94,10930.54,7006.65,7132.63,2776.51,1390.88,1747.63,43469.88,40287.53,42524.23
+XYZ,"Block, Inc.",United States,Software - Infrastructure,USD,40720.21,24121.05,21915.62,17531.59,2897.05,9.77,-540.75,36777.6,33031.31,31364.34
+BK,The Bank of New York Mellon Cor,United States,Banks - Diversified,USD,79057.49,18258.0,17488.0,16186.0,4530.0,3302.0,2556.0,416064.0,409877.0,405783.0
+BA,Boeing Company (The),United States,Aerospace & Defense,USD,143658.04,66517.0,77794.0,66608.0,-11817.0,-2222.0,-4935.0,156363.0,137012.0,137100.0
+BKNG,Booking Holdings Inc. Common St,United States,Travel Services,USD,159284.54,23739.0,21365.0,17090.0,5882.0,4289.0,3058.0,27708.0,24342.0,25361.0
+BSX,Boston Scientific Corporation,United States,Medical Devices,USD,150586.46,16747.0,14240.0,12682.0,1854.0,1593.0,698.0,39395.0,35136.0,32469.0
+BMY,Bristol-Myers Squibb Company,United States,Drug Manufacturers - General,USD,100159.05,48300.0,45006.0,46159.0,-8948.0,8025.0,6327.0,92603.0,95159.0,96820.0
+AVGO,Broadcom Inc.,United States,Semiconductors,USD,1902924.14,51574.0,35819.0,33203.0,5895.0,14082.0,11495.0,165645.0,72861.0,73249.0
+BRO,"Brown & Brown, Inc.",United States,Insurance Brokers,USD,27460.47,4705.0,4199.0,3563.0,993.0,871.0,672.0,17612.0,14883.0,13973.5
+BLDR,"Builders FirstSource, Inc.",United States,Building Products & Equipment,USD,12410.46,16400.49,17097.33,22726.42,1077.9,1540.56,2749.37,10583.09,10499.45,10595.16
+BG,Bunge Limited,United States,Farm Products,USD,19219.96,53108.0,59540.0,67232.0,1137.0,2243.0,1610.0,24899.0,25372.0,24580.0
+BXP,"BXP, Inc.",United States,REIT - Office,USD,12800.23,3407.72,3273.57,3108.58,14.27,190.22,848.95,26084.98,26026.15,24207.67
+CHRW,"C.H. Robinson Worldwide, Inc.",United States,Integrated Freight & Logistics,USD,18768.45,17724.96,17596.44,24696.62,465.69,325.13,940.52,5297.93,5225.28,5954.56
+CDNS,"Cadence Design Systems, Inc.",United States,Software - Application,USD,84973.27,4641.26,4089.99,3561.72,1055.48,1041.14,848.95,8974.48,5669.49,5137.07
+CZR,"Caesars Entertainment, Inc.",United States,Resorts & Casinos,USD,4839.96,11245.0,11528.0,10821.0,-278.0,786.0,-899.0,32590.0,33366.0,33527.0
+CPT,Camden Property Trust,United States,REIT - Residential,USD,11362.72,1543.84,1542.03,1422.76,163.29,403.31,653.61,8852.14,9383.74,9327.94
+COF,Capital One Financial Corporati,United States,Credit Services,USD,140099.06,39112.0,36787.0,34250.0,4750.0,4887.0,7360.0,490144.0,478464.0,455249.0
+CCL,Carnival Corporation,United States,Travel Services,USD,34954.64,25021.0,21593.0,12169.0,1916.0,-74.0,-6093.0,49057.0,49120.0,51703.0
+CARR,Carrier Global Corporation,United States,Building Products & Equipment,USD,46704.14,22486.0,18951.0,17288.0,5604.0,1349.0,3534.0,37403.0,32822.0,26086.0
+CAT,"Caterpillar, Inc.",United States,Farm & Heavy Construction Machinery,USD,269731.43,64809.0,67060.0,59427.0,10792.0,10335.0,6705.0,87764.0,87476.0,81943.0
+CBOE,"Cboe Global Markets, Inc.",United States,Financial Data & Stock Exchanges,USD,27016.08,4094.5,3773.5,3958.5,764.9,761.4,235.0,7789.1,7487.5,6998.9
+CBRE,CBRE Group Inc,United States,Real Estate Services,USD,48159.47,35767.0,31949.0,30828.0,968.0,986.0,1407.0,24383.0,22548.0,20513.0
+CDW,CDW Corporation,United States,Information Technology Services,USD,18901.58,20998.7,21376.0,23748.7,1077.8,1104.3,1114.5,14678.4,13284.6,13131.5
+CNC,Centene Corporation,United States,Healthcare Plans,USD,19336.32,163071.0,153999.0,144547.0,3305.0,2702.0,1202.0,82445.0,84641.0,76870.0
+CNP,"CenterPoint Energy, Inc (Holdin",United States,Utilities - Regulated Electric,USD,26101.67,8643.0,8696.0,9321.0,1019.0,917.0,1057.0,43768.0,39715.0,38546.0
+CF,"CF Industries Holdings, Inc.",United States,Agricultural Inputs,USD,12747.27,5936.0,6631.0,11186.0,1218.0,1525.0,3346.0,13466.0,14376.0,13313.0
+CRL,Charles River Laboratories Inte,United States,Diagnostics & Research,USD,8767.24,4049.99,4129.41,3976.06,10.3,474.62,486.23,7528.34,8195.0,7602.77
+SCHW,Charles Schwab Corporation (The,United States,Capital Markets,USD,168325.3,19606.0,18837.0,20762.0,5942.0,5067.0,7183.0,479843.0,493178.0,551772.0
+CHTR,"Charter Communications, Inc.",United States,Telecom Services,USD,27334.59,55085.0,54607.0,54022.0,5083.0,4557.0,5055.0,150020.0,147193.0,144523.0
+CVX,Chevron Corporation,United States,Oil & Gas Integrated,USD,304500.11,193414.0,196913.0,235717.0,17661.0,21369.0,35465.0,256938.0,261632.0,257709.0
+CMG,"Chipotle Mexican Grill, Inc.",United States,Restaurants,USD,46287.35,11313.85,9871.65,8634.65,1534.11,1228.74,899.1,9204.37,8044.36,6927.5
+CB,Chubb Limited,Switzerland,Insurance - Property & Casualty,USD,118084.09,56150.0,50133.0,42975.0,9272.0,9028.0,5246.0,246548.0,230682.0,199017.0
+CHD,"Church & Dwight Company, Inc.",United States,Household & Personal Products,USD,20745.72,6107.1,5867.9,5375.6,585.3,755.6,413.9,8883.1,8569.2,8345.6
+CI,The Cigna Group,United States,Healthcare Plans,USD,74068.65,244384.0,195187.0,180031.0,3434.0,5164.0,6704.0,155881.0,152761.0,143885.0
+CINF,Cincinnati Financial Corporatio,United States,Insurance - Property & Casualty,USD,26207.12,11337.0,10013.0,6563.0,2292.0,1843.0,-487.0,36501.0,32769.0,29732.0
+C,"Citigroup, Inc.",United States,Banks - Diversified,USD,190717.02,81089.0,77024.0,74480.0,12682.0,9228.0,14845.0,2352945.0,2411834.0,2416676.0
+CFG,"Citizens Financial Group, Inc.",United States,Banks - Regional,USD,23335.98,7794.0,8224.0,8021.0,1509.0,1608.0,2073.0,217521.0,221964.0,226733.0
+CME,CME Group Inc.,United States,Financial Data & Stock Exchanges,USD,101494.41,6130.1,5578.9,5019.4,3525.8,3226.2,2691.0,137447.0,129706.1,174175.7
+CMS,CMS Energy Corporation,United States,Utilities - Regulated Electric,USD,22957.89,7515.0,7462.0,8596.0,1003.0,887.0,837.0,35920.0,33517.0,31353.0
+KO,Coca-Cola Company (The),United States,Beverages - Non-Alcoholic,USD,314684.15,47061.0,45754.0,43004.0,10631.0,10714.0,9542.0,100549.0,97703.0,92763.0
+CTSH,Cognizant Technology Solutions ,United States,Information Technology Services,USD,37953.25,19736.0,19353.0,19428.0,2240.0,2126.0,2290.0,19966.0,18483.0,17852.0
+COIN,"Coinbase Global, Inc.",United States,Financial Data & Stock Exchanges,USD,73564.23,6564.03,3108.38,3194.21,2579.07,94.87,-2624.95,22541.95,14753.9,89724.87
+CL,Colgate-Palmolive Company,United States,Household & Personal Products,USD,64972.87,20101.0,19457.0,17967.0,2889.0,2300.0,1785.0,16046.0,16393.0,15731.0
+CMCSA,Comcast Corporation,United States,Telecom Services,USD,98544.99,123731.0,121572.0,121427.0,16192.0,15388.0,5370.0,266211.0,264811.0,257275.0
+COP,ConocoPhillips,United States,Oil & Gas E&P,USD,110768.7,54745.0,56141.0,78494.0,9245.0,10957.0,18680.0,122780.0,95924.0,93829.0
+ED,"Consolidated Edison, Inc.",United States,Utilities - Regulated Electric,USD,36223.5,15256.0,14663.0,15670.0,1820.0,2519.0,1660.0,70562.0,66331.0,69065.0
+CEG,Constellation Energy Corporatio,United States,Utilities - Independent Power Producers,USD,113828.09,23568.0,24918.0,24440.0,3749.0,1623.0,-160.0,52926.0,50758.0,46909.0
+COO,"The Cooper Companies, Inc.",United States,Medical Instruments & Supplies,USD,15548.01,3895.4,3593.2,3308.4,392.3,294.2,385.8,12315.2,11658.9,11492.3
+GLW,Corning Incorporated,United States,Electronic Components,USD,72189.74,13118.0,12588.0,14189.0,506.0,581.0,1316.0,27735.0,28500.0,29499.0
+CPAY,"Corpay, Inc.",United States,Software - Infrastructure,USD,20887.73,3974.59,3757.72,3427.13,1003.75,981.89,954.33,17957.03,15476.25,14089.26
+CTVA,"Corteva, Inc.",United States,Agricultural Inputs,USD,45818.88,16908.0,17226.0,17455.0,907.0,735.0,1147.0,40825.0,42996.0,42618.0
+CSGP,"CoStar Group, Inc.",United States,Real Estate Services,USD,29159.01,2736.2,2455.0,2182.4,138.7,374.7,369.5,9256.8,8919.7,8402.5
+CTRA,Coterra Energy Inc.,United States,Oil & Gas E&P,USD,20482.68,5458.0,5914.0,9051.0,1121.0,1625.0,4065.0,21625.0,20415.0,20154.0
+CCI,Crown Castle Inc.,United States,REIT - Specialty,USD,39750.52,6568.0,6981.0,6986.0,-3903.0,1502.0,1675.0,32736.0,38527.0,38921.0
+CSX,CSX Corporation,United States,Railroads,USD,65920.84,14540.0,14657.0,14853.0,3470.0,3668.0,4114.0,42764.0,42212.0,41912.0
+CMI,Cummins Inc.,United States,Specialty Industrial Machinery,USD,68739.29,34102.0,34065.0,28074.0,3946.0,735.0,2151.0,31540.0,32005.0,30299.0
+CVS,CVS Health Corporation,United States,Healthcare Plans,USD,102011.59,372809.0,357776.0,322467.0,4614.0,8344.0,4311.0,253215.0,249728.0,228275.0
+DHR,Danaher Corporation,United States,Diagnostics & Research,USD,162386.18,23875.0,23890.0,26643.0,3899.0,4764.0,7209.0,77542.0,84488.0,84350.0
+DDOG,"Datadog, Inc.",United States,Software - Application,USD,56110.83,2684.28,2128.36,1675.1,183.75,48.57,-50.16,5785.34,3936.07,3004.85
+DVA,DaVita Inc.,United States,Medical Care Facilities,USD,8557.12,12815.55,12140.15,11609.89,936.34,691.54,560.4,17285.27,16893.58,16928.25
+DAY,"Dayforce, Inc.",United States,Software - Application,USD,11058.42,1760.0,1513.7,1246.2,18.1,54.8,-73.4,9117.0,9010.9,8463.5
+DAL,"Delta Air Lines, Inc.",United States,Airlines,USD,41854.91,61643.0,58048.0,50582.0,3457.0,4609.0,1318.0,75372.0,73644.0,72288.0
+DVN,Devon Energy Corporation,United States,Oil & Gas E&P,USD,23525.69,15940.0,15258.0,19169.0,2891.0,3747.0,6015.0,30489.0,24490.0,23721.0
+DXCM,"DexCom, Inc.",United States,Medical Devices,USD,24890.1,4033.0,3622.3,2909.8,576.2,541.5,341.2,6484.5,6264.5,5391.7
+FANG,"Diamondback Energy, Inc.",United States,Oil & Gas E&P,USD,44172.69,11023.0,8339.0,9566.0,3338.0,3143.0,4386.0,67292.0,29001.0,26209.0
+DLR,"Digital Realty Trust, Inc.",United States,REIT - Specialty,USD,55994.69,5554.97,5477.06,4691.83,602.49,948.84,377.68,45283.62,44113.26,41485.0
+D,"Dominion Energy, Inc.",United States,Utilities - Regulated Electric,USD,53600.14,14459.0,14393.0,13938.0,2124.0,2031.0,1191.0,102415.0,109080.0,104795.0
+DPZ,Domino's Pizza Inc,United States,Restaurants,USD,14245.99,4706.42,4479.36,4537.16,584.17,519.12,452.26,1737.01,1674.9,1602.22
+DASH,"DoorDash, Inc.",United States,Internet Retail,USD,85497.18,10722.0,8635.0,6583.0,123.0,-558.0,-1365.0,12845.0,10839.0,9789.0
+DOV,Dover Corporation,United States,Specialty Industrial Machinery,USD,25411.75,7745.91,7684.48,7844.17,2697.13,1056.83,1065.38,12509.16,11348.51,10896.52
+DOW,Dow Inc.,United States,Chemicals,USD,16951.8,42964.0,44622.0,56902.0,1116.0,589.0,4582.0,57312.0,57967.0,60603.0
+DTE,DTE Energy Company,United States,Utilities - Regulated Electric,USD,28458.8,12457.0,12745.0,19228.0,1404.0,1397.0,1083.0,48846.0,44755.0,42683.0
+DUK,Duke Energy Corporation (Holdin,United States,Utilities - Regulated Electric,USD,96383.34,30357.0,29060.0,28768.0,4524.0,2841.0,2550.0,186343.0,176893.0,178086.0
+DD,"DuPont de Nemours, Inc.",United States,Specialty Chemicals,USD,16662.65,12386.0,12068.0,13017.0,703.0,423.0,5868.0,36636.0,38552.0,41355.0
+EMN,Eastman Chemical Company,United States,Specialty Chemicals,USD,7128.8,9382.0,9210.0,10580.0,905.0,894.0,793.0,15213.0,14633.0,14667.0
+ETN,"Eaton Corporation, PLC",Ireland,Specialty Industrial Machinery,USD,134654.98,24878.0,23196.0,20752.0,3794.0,3218.0,2462.0,38381.0,38432.0,35014.0
+EBAY,eBay Inc.,United States,Internet Retail,USD,37835.03,10283.0,10112.0,9795.0,1975.0,2767.0,-1269.0,19365.0,21620.0,20850.0
+ECL,Ecolab Inc.,United States,Specialty Chemicals,USD,78042.23,15741.4,15320.2,14187.8,2112.4,1372.3,1091.7,22387.8,21846.6,21464.3
+EIX,Edison International,United States,Utilities - Regulated Electric,USD,22660.11,17599.0,16338.0,17220.0,1546.0,1407.0,824.0,85579.0,81758.0,78041.0
+EW,Edwards Lifesciences Corporatio,United States,Medical Devices,USD,50883.96,5439.5,5010.0,4464.0,4174.6,1402.4,1521.9,13055.3,9363.2,8292.5
+ELV,"Elevance Health, Inc.",United States,Healthcare Plans,USD,76168.81,176810.0,171340.0,156595.0,5980.0,5987.0,5894.0,116889.0,108928.0,102755.0
+ENPH,"Enphase Energy, Inc.",United States,Solar,USD,3775.3,1330.38,2290.79,2330.85,102.66,438.94,397.36,3249.68,3383.01,3084.28
+ETR,Entergy Corporation,United States,Utilities - Regulated Electric,USD,43552.13,11879.65,12147.41,13764.24,1061.18,2362.31,1097.14,64790.03,59703.4,58595.19
+EOG,"EOG Resources, Inc.",United States,Oil & Gas E&P,USD,58885.39,23378.0,23182.0,29492.0,6403.0,7594.0,7759.0,47186.0,43857.0,41371.0
+EPAM,"EPAM Systems, Inc.",United States,Information Technology Services,USD,10415.32,4727.94,4690.54,4824.7,454.53,417.08,419.42,4750.47,4352.36,4009.15
+EQT,EQT Corporation,United States,Oil & Gas E&P,USD,37980.72,5222.19,5069.98,12140.62,230.58,1735.23,1770.96,39830.25,25285.1,22669.93
+EFX,"Equifax, Inc.",United States,Consulting Services,USD,26163.43,5681.1,5265.2,5122.2,604.1,545.3,696.2,11759.4,12280.0,11547.9
+EQIX,"Equinix, Inc.",United States,REIT - Specialty,USD,73964.55,8748.0,8188.0,7263.0,815.0,969.0,705.0,35085.0,32651.0,30310.74
+EQR,Equity Residential,United States,REIT - Residential,USD,24302.45,2980.11,2873.96,2735.18,1035.83,835.44,776.91,20834.18,20034.56,20218.26
+ERIE,Erie Indemnity Company,United States,Insurance Brokers,USD,15451.13,3862.4,3309.22,2851.2,600.31,446.06,298.57,2888.61,2471.96,2239.46
+ESS,"Essex Property Trust, Inc.",United States,REIT - Residential,USD,18207.83,1774.45,1669.4,1606.81,741.52,405.82,408.32,12927.36,12361.43,12372.9
+EG,"Everest Group, Ltd.",Bermuda,Insurance - Reinsurance,USD,13193.28,17076.0,14464.0,11985.0,1373.0,2517.0,597.0,56341.0,49399.0,39966.0
+EVRG,"Evergy, Inc.",United States,Utilities - Regulated Electric,USD,17876.13,5847.3,5508.2,5859.1,873.5,731.3,752.7,32282.1,30976.1,29489.9
+ES,Eversource Energy (D/B/A),United States,Utilities - Regulated Electric,USD,25205.21,11900.81,11910.7,12289.34,811.65,-442.24,1404.88,59594.53,55612.24,53230.9
+EXC,Exelon Corporation,United States,Utilities - Regulated Electric,USD,47590.6,23028.0,21727.0,19078.0,2460.0,2328.0,2170.0,107784.0,101856.0,95349.0
+EXE,Expand Energy Corporation,United States,Oil & Gas E&P,USD,29040.03,4221.0,7775.0,11443.0,-714.0,2419.0,4936.0,27894.0,14376.0,15468.0
+EXPE,"Expedia Group, Inc.",United States,Travel Services,USD,31632.84,13691.0,12839.0,11667.0,1234.0,797.0,352.0,22388.0,21642.0,21561.0
+EXPD,Expeditors International of Was,United States,Integrated Freight & Logistics,USD,19937.05,10600.52,9300.11,17071.28,810.07,752.88,1357.4,4754.46,4523.81,5590.43
+EXR,Extra Space Storage Inc,United States,REIT - Industrial,USD,29510.67,3256.9,2560.24,1924.17,854.68,803.2,860.69,28847.93,27456.26,12167.46
+XOM,Exxon Mobil Corporation,United States,Oil & Gas Integrated,USD,494195.61,339247.0,334697.0,398675.0,33680.0,36010.0,55740.0,453475.0,376317.0,369067.0
+FAST,Fastenal Company,United States,Industrial Distribution,USD,46380.65,7546.0,7346.7,6980.6,1150.6,1155.0,1086.9,4698.0,4462.9,4548.6
+FRT,Federal Realty Investment Trust,United States,REIT - Retail,USD,8569.69,1202.45,1132.15,1074.38,295.21,236.98,385.49,8524.76,8436.51,8233.99
+FIS,Fidelity National Information S,United States,Information Technology Services,USD,34356.84,10127.0,9831.0,9720.0,1450.0,-6655.0,-16752.0,33784.0,54973.0,63278.0
+FITB,Fifth Third Bancorp,United States,Banks - Regional,USD,28729.01,8253.0,8422.0,8102.0,2314.0,2349.0,2446.0,212927.0,214574.0,207452.0
+FSLR,"First Solar, Inc.",United States,Solar,USD,29286.54,4206.29,3318.6,2619.32,1292.04,830.78,-44.17,12124.36,10365.13,8251.23
+FE,FirstEnergy Corp.,United States,Utilities - Regulated Electric,USD,27566.2,13472.0,12870.0,12459.0,978.0,1102.0,406.0,52044.0,48767.0,46108.0
+FI,"Fiserv, Inc.",United States,Information Technology Services,USD,34314.95,20456.0,19093.0,17737.0,3131.0,3068.0,2530.0,77176.0,90890.0,83869.0
+F,Ford Motor Company,United States,Auto Manufacturers,USD,52914.14,184992.0,176191.0,158057.0,5879.0,4347.0,-1981.0,285196.0,273310.0,255884.0
